@@ -1,4 +1,13 @@
 body {
-    color: blue;
-    background-color: rgb(200, 126, 36);
-  }
+  background-color: black; 
+  color: white;
+}
+.first {
+  display: grid; 
+  text-align: center; 
+}
+
+.photo {
+  padding-top: 1rem;
+  text-align: center;
+}
